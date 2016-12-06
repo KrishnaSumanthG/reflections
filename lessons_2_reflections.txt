@@ -5,3 +5,6 @@ How is the staging area different from the working directory and the repository?
 working dir- any no. of files.
 repository-files with commits created.
 staging area-intermedite between the two which allows us to choose on what files should the commits to be made.
+
+How can you use the staging area to make sure you have one commit per logical change?
+by checking it with git diff in the working dir and staging area
