@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+A .git folder gets created .This helps in keeping track of all the files.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+working dir- any no. of files.
+repository-files with commits created.
+staging area-intermedite between the two which allows us to choose on what files should the commits to be made.
