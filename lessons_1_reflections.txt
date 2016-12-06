@@ -24,3 +24,5 @@ very much
 
 Now that you have your workspace set up, what do you want to try using Git for?
 i want to check older and older versions and come back to newer versions.
+
+End of lesson 1
